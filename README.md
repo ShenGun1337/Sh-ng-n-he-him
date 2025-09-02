@@ -20,7 +20,7 @@
 
 ```javascript
 const Shęngũn = {
-  location: "Paris, France",
+  location: "Allemagne, Berlin",
   education: "Computer Science",
   fields: ["Web Development", "UI/UX", "API Design", "Security Research"],
   currentFocus: "Building scalable web applications with modern JavaScript",
